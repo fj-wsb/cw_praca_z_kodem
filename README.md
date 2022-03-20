@@ -1,4 +1,4 @@
-Do uruchomienie app.py potrzebujemy zainstalować nastepujące zależności:
+Do uruchomienie projektu potrzebujemy zainstalować nastepujące zależności:
 -click
 -Flask
 -itsdangerous
@@ -6,3 +6,4 @@ Do uruchomienie app.py potrzebujemy zainstalować nastepujące zależności:
 -MarkupSafe
 -Werkzeug
 -pylint
+Uruchamiamy za pomocą pliku app.py
